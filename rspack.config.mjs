@@ -33,8 +33,8 @@ const config = {
           <meta charset="utf-8" />
           <title>Webpack App</title>
           <!-- Ensure that the shared initial chunks are present -->
-          <script src="react.js></script>
-          <script src="redux.js></script>
+          <script src="react.js"></script>
+          <script src="redux.js"></script>
         </head>
         <body>
           <div id="root"></div>
